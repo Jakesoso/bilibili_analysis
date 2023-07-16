@@ -1,0 +1,138 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "mid": 1208781782,
+        "name": "青柚诗话馆",
+        "sex": "女",
+        "face": "https://i2.hdslb.com/bfs/face/638b8adaf37d735f47e27d7945ed0ab3ae2aa6ff.jpg",
+        "face_nft": 0,
+        "face_nft_type": 0,
+        "sign": "一个热爱旅游富有幽默感的“青柚”UP主。\n喜欢跟着书本去旅行，做个现代版的“徐霞客”!\n传承文化经典，感受古文之美。",
+        "rank": 10000,
+        "level": 4,
+        "jointime": 0,
+        "moral": 0,
+        "silence": 0,
+        "coins": 0,
+        "fans_badge": true,
+        "fans_medal": {
+            "show": false,
+            "wear": false,
+            "medal": null
+        },
+        "official": {
+            "role": 0,
+            "title": "",
+            "desc": "",
+            "type": -1
+        },
+        "vip": {
+            "type": 1,
+            "status": 0,
+            "due_date": 1618156800000,
+            "vip_pay_type": 0,
+            "theme_type": 0,
+            "label": {
+                "path": "",
+                "text": "",
+                "label_theme": "",
+                "text_color": "",
+                "bg_style": 0,
+                "bg_color": "",
+                "border_color": "",
+                "use_img_label": true,
+                "img_label_uri_hans": "",
+                "img_label_uri_hant": "",
+                "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+            },
+            "avatar_subscript": 0,
+            "nickname_color": "",
+            "role": 0,
+            "avatar_subscript_url": "",
+            "tv_vip_status": 0,
+            "tv_vip_pay_type": 0,
+            "tv_due_date": 0
+        },
+        "pendant": {
+            "pid": 0,
+            "name": "",
+            "image": "",
+            "expire": 0,
+            "image_enhance": "",
+            "image_enhance_frame": ""
+        },
+        "nameplate": {
+            "nid": 0,
+            "name": "",
+            "image": "",
+            "image_small": "",
+            "level": "",
+            "condition": ""
+        },
+        "user_honour_info": {
+            "mid": 0,
+            "colour": null,
+            "tags": []
+        },
+        "is_followed": false,
+        "top_photo": "http://i1.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+        "theme": {},
+        "sys_notice": {},
+        "live_room": {
+            "roomStatus": 1,
+            "liveStatus": 1,
+            "url": "https://live.bilibili.com/25112705?broadcast_type=0\u0026is_room_feed=1",
+            "title": "24小时娱乐直播间",
+            "cover": "http://i0.hdslb.com/bfs/live/new_room_cover/6ae9eaaee6febc0afec8e8534eff3f6b63a73c3c.jpg",
+            "roomid": 25112705,
+            "roundStatus": 0,
+            "broadcast_type": 0,
+            "watched_show": {
+                "switch": true,
+                "num": 127,
+                "text_small": "127",
+                "text_large": "127人看过",
+                "icon": "https://i0.hdslb.com/bfs/live/a725a9e61242ef44d764ac911691a7ce07f36c1d.png",
+                "icon_location": "",
+                "icon_web": "https://i0.hdslb.com/bfs/live/8d9d0f33ef8bf6f308742752d13dd0df731df19c.png"
+            }
+        },
+        "birthday": "01-01",
+        "school": {
+            "name": "对外经济贸易大学"
+        },
+        "profession": {
+            "name": "",
+            "department": "",
+            "title": "",
+            "is_show": 0
+        },
+        "tags": null,
+        "series": {
+            "user_upgrade_status": 3,
+            "show_upgrade_window": false
+        },
+        "is_senior_member": 0,
+        "mcn_info": null,
+        "gaia_res_type": 0,
+        "gaia_data": null,
+        "is_risk": false,
+        "elec": {
+            "show_info": {
+                "show": true,
+                "state": 2,
+                "title": "充电",
+                "icon": "https://i0.hdslb.com/bfs/garb/item/33e2e72d9a0c855f036b4cb55448f44af67a0635.png",
+                "jump_url": "https://www.bilibili.com/h5/upower/index?mid=1208781782\u0026navhide=1\u0026oid=1208781782"
+            }
+        },
+        "contract": {
+            "is_display": false,
+            "is_follow_display": false
+        },
+        "certificate_show": false
+    }
+}

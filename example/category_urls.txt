@@ -1,0 +1,19 @@
+'''
+    rank urls of different categories:
+	'全站': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all',
+    '动画': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=1&type=all',
+    '音乐': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=3&type=all',
+    '舞蹈': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=129&type=all',
+    '游戏': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=4&type=all',
+    '知识': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=36&type=all',
+    '科技': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=188&type=all',
+    '运动': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=234&type=all',
+    '汽车': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=223&type=all',
+    '生活': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=160&type=all',
+    '美食': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=211&type=all',
+    '动物': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=217&type=all',
+    '鬼畜': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=119&type=all',
+    '时尚': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=155&type=all',
+    '娱乐': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=5&type=all',
+    '影视': 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=181&type=all',
+'''
