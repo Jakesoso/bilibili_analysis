@@ -27,7 +27,7 @@
 
 ## 界面
 
-![alt snap](data/interface.png"Distribution of Video Durations")
+![alt snap](data/interface.png "interface")
 
 ## 示例结果
 
