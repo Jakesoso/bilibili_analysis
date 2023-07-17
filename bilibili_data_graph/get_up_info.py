@@ -9,6 +9,7 @@ font = {'family': 'SimSun',
 plt.rc('font', **font)
 plt.rc('axes', unicode_minus=False)
 
+
 def draw_sp_up_freq(up_name):
     file_path = '../data/weekly_list.xlsx'
     year_counters = {}
@@ -41,6 +42,7 @@ def draw_sp_up_freq(up_name):
     plt.title(f'Occurrences of Uploader "{up_name}" Over Time')
 
     return plt
+
 
 def get_up_info(up_name):
     # 读取Excel文件

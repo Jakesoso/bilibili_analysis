@@ -3,6 +3,7 @@ import os
 
 import jieba
 
+
 # 对弹幕进行分词操作
 def bullet_screen_separate():
     # 读取要分析的文本
@@ -21,5 +22,6 @@ def bullet_screen_separate():
         # 将分词结果写入文件
         with open(file=separate_dir, mode="w", encoding="utf-8") as f:
             f.write(" ".join(seg_list))
+
 
 bullet_screen_separate()

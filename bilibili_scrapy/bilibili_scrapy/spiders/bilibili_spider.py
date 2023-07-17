@@ -1,7 +1,6 @@
-import copy
 import re
-import scrapy
 
+import scrapy
 from bilibili_scrapy.items import BilibiliScrapyItem
 
 # get all categories
@@ -15,6 +14,7 @@ category_dict = {
 is_get_ranking_list_video = True
 is_get_weekly_list_video = True
 is_get_bulletScreen = True  # whether bullet screen is needed
+
 
 class BilibiliSpider(scrapy.Spider):
     name = "bilibili_spider"

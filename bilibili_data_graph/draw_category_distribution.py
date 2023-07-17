@@ -1,5 +1,6 @@
-import matplotlib.pyplot as plt
 from collections import Counter
+
+import matplotlib.pyplot as plt
 import pandas as pd
 
 font = {'family': 'SimSun',

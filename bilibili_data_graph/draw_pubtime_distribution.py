@@ -1,5 +1,6 @@
-import matplotlib.pyplot as plt
 from collections import Counter
+
+import matplotlib.pyplot as plt
 import pandas as pd
 
 font = {'family': 'SimSun',
@@ -74,6 +75,7 @@ def get_publish_time_trend():
         yearly_pub_hour_ratios[year] = duration_ratios
 
     return [yearly_pub_week_ratios, yearly_pub_hour_ratios]
+
 
 # def draw_publish_time_freq():
 #     # 读取Excel文件

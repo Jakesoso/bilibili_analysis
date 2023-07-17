@@ -1,11 +1,13 @@
-import matplotlib.pyplot as plt
 from collections import Counter
+
+import matplotlib.pyplot as plt
 import pandas as pd
 
 font = {'family': 'SimSun',
         'size': '25'}
 plt.rc('font', **font)
 plt.rc('axes', unicode_minus=False)
+
 
 # 获取时长变化图/趋势
 def get_durations_trend_list():
@@ -218,4 +220,3 @@ def draw_duration_dist():
 
     plt.tight_layout()  # 调整子图的布局
     plt.show()
-

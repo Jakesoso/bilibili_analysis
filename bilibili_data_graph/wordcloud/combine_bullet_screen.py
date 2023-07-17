@@ -1,5 +1,5 @@
-import os
 import glob
+import os
 import re
 
 
@@ -54,5 +54,6 @@ def combine_bullet_screen():
     for year, string in yearly_strings.items():
         with open(f'{year}_combined_strings.txt', 'w', encoding='utf-8') as file:
             file.write(string)
+
 
 combine_bullet_screen()

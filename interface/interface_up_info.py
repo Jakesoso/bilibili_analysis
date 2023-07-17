@@ -1,8 +1,9 @@
-from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtWidgets import QVBoxLayout, QLabel, QPushButton, QDialog, QLineEdit, QHBoxLayout
 
 from bilibili_data_graph import get_up_info
+
 
 class UpInfoInter(QDialog):
     def __init__(self):
@@ -38,7 +39,6 @@ class UpInfoInter(QDialog):
         self.layout.addLayout(result_layout)
 
         self.setLayout(self.layout)
-
 
     def get_info(self):
         # 获取文本框内容

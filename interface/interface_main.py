@@ -4,13 +4,12 @@ import sys
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushButton
 
-from interface_wordcloud import WordcloudInter
-from interface_up_info import UpInfoInter
-
-from bilibili_data_graph import draw_up_freq
 from bilibili_data_graph import draw_category_distribution
 from bilibili_data_graph import draw_duration_distribution
 from bilibili_data_graph import draw_pubtime_distribution
+from bilibili_data_graph import draw_up_freq
+from interface_up_info import UpInfoInter
+from interface_wordcloud import WordcloudInter
 
 
 class BilibiliDataAnalysis(QWidget):
